@@ -6,7 +6,7 @@ A modern, responsive website for our Sunday league football club, built with Ang
 
 ## 📸 Demo
 
-> _You can add a screenshot or link to the live site here once deployed._
+> _ Screenshot or link to the live site here once deployed will be added._
 
 ---
 
