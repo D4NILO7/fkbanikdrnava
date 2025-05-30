@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.nav-active {
+    @apply font-bold;
+    @apply border-b-4 border-green-600;
+}
